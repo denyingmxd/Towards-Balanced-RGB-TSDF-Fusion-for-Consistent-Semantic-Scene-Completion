@@ -8,7 +8,7 @@ Laiyan Ding, Panwen Hu, Jie Li, Rui Huang
 
 [PRCV 2023 (arXiv pdf)](https://arxiv.org/abs/2403.16888)
 
-
+We are sorry that the code has been too old to carry on again. Thus, we only provide the core component of our project as in network.py and loss.py. network.py has a class named baseline_resnet50_init_reuse which implements of the our idea that estimate the scene semantic and geometry with two stages. loss.py is a class that implements the entropy-based loss to tackle with hard-to-distinguish classes, e.g., sofa and chair.
 
 This code is for non-commercial use.
 
